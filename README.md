@@ -30,6 +30,7 @@ Open Source Software Development and Community Governance (开源软件开发与
 - [[ The Code ](https://www.bilibili.com/video/BV1us411z7X4/?spm_id_from=333.788.videocard.16)]
 - [[ RevolutionOS ](https://www.bilibili.com/video/BV1as411f7nM)]
 - [[「开源」60年](https://www.bilibili.com/video/BV1zV411d7La) ]
+
 - [The Cat-Baz ch01-02.pdf](https://github.com/X-lab2017/OSSDevGov2021/files/6056785/The.Cat-Baz.ch01-02.pdf)
 - [01《开源软件开发与社区治理》第1讲.pdf](https://github.com/X-lab2017/OSSDevGov2021/files/6067433/01.1.pdf)
 
@@ -37,6 +38,19 @@ Open Source Software Development and Community Governance (开源软件开发与
 
 - [02《开源软件开发与社区治理》第2讲.pdf](https://github.com/X-lab2017/OSSDevGov2021/files/6105859/02.2.pdf)
 - [开源实训Lab-01：软件开发基础.pdf](https://github.com/X-lab2017/OSSDevGov2021/files/6105860/Lab-01.pdf)
+
+**第三次课（3月15日）：软件与开源商业化**
+
+- [03《开源软件开发与社区治理》第3讲.pdf](https://github.com/X-lab2017/OSSDevGov2021/files/6262128/03.3.pdf)
+
+**第四次课（3月22日）：管理学&经济学视角**
+
+- [04《开源软件开发与社区治理》第4讲.pdf](https://github.com/X-lab2017/OSSDevGov2021/files/6262131/04.4.pdf)
+
+
+**第五次课（3月29日）：开源协作与工程全流程**
+
+- [05《开源软件开发与社区治理》第5讲.pdf](https://github.com/X-lab2017/OSSDevGov2021/files/6262134/05.5.pdf)
 
 
 ## 5、考核方式
